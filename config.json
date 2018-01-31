@@ -2,5 +2,5 @@
 	"Host":"localhost", 
 	"User":"postgres", 
 	"Password":"postgres", 
-	"DbName":"frentecaixa_db"
+	"DbName":"banco"
 }
